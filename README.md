@@ -2,12 +2,12 @@
 This was a project done while studying. 
 
 Specific Instructions for the resulting Test Suite
-1.Fix any errors which are preventing the code from running. 
-2.Run the existing test suite, which contains tests for the Coordinates, Address, Depot, Product and Customer classes.
-3.Fix any bugs detected by these tests.
-4.Create more tests, for the Manifest, Box and Packer classes. When creating these tests, refer to the scenario,
+- Fix any errors which are preventing the code from running. 
+- Run the existing test suite, which contains tests for the Coordinates, Address, Depot, Product and Customer classes.
+- Fix any bugs detected by these tests.
+- Create more tests, for the Manifest, Box and Packer classes. When creating these tests, refer to the scenario,
   which describes several program requirements.
-  5.Add all tests to the TestSuite.
+- Add all tests to the TestSuite.
 
 
 *** INSTRUCTIONS ***
